@@ -7,6 +7,7 @@ Multi-agents SLAM
 ## Research Solution:Through LIO and VIO, individual intelligent agents can achieve front-end positioning and loop detection functions, and pose optimization and mapping can be achieved through a unified backend
 <img width="836" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/96aa9dce-673b-43a9-bbac-30b7a61f6843">
 
+## using public code：r3live（https://github.com/hku-mars/r3live）
 
 ## data collecting:
 <img width="286" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/7bdac8f5-4ab5-49ff-bd37-e7657da2779e">
