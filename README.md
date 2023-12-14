@@ -10,7 +10,9 @@ Multi-agents SLAM
 
 ## data collecting:
 <img width="286" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/7bdac8f5-4ab5-49ff-bd37-e7657da2779e">
+
 <img width="286" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/b39982bb-a73c-484b-8d8e-e264df4b778f">
+
 <img width="286" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/0d1cf6db-64eb-47d9-ae48-ae20c347c601">
 
 ## calibration: before and after
