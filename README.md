@@ -1,13 +1,11 @@
-# Multi-agents-SLAM
-Multi-agents SLAM
+# Multi-agents-SLAM(based on public code:https://github.com/hku-mars/r3live)
+For some reason,we can't upload our dataset and other code now.
 
 ## Research Target:by collaborating with heterogeneous sensors, intelligent agent localization and mapping can be achieved,this is tested in real scenarios
 <img width="476" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/ab2a15a6-3bee-4a34-921e-34acc6234dd3">
 
 ## Research Solution:Through LIO and VIO, individual intelligent agents can achieve front-end positioning and loop detection functions, and pose optimization and mapping can be achieved through a unified backend
 <img width="836" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/96aa9dce-673b-43a9-bbac-30b7a61f6843">
-
-## using public code：r3live（https://github.com/hku-mars/r3live）
 
 ## data collecting:
 <img width="286" alt="image" src="https://github.com/Yang-Peter/Multi-agents-SLAM/assets/82710275/7bdac8f5-4ab5-49ff-bd37-e7657da2779e">
